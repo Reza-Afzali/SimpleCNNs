@@ -1,1 +1,1 @@
-# class_project1
+# SimpleCNNsmodel
